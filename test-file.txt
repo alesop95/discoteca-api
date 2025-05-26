@@ -1,1 +1,3 @@
 Just a simple file to test Git and Github from VS Code
+
+This is another thing to write to test for a second commit and push
